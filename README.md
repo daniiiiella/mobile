@@ -1,8 +1,13 @@
-> Why do I have a folder named ".expo" in my project?
-The ".expo" folder is created when an Expo project is started using "expo start" command.
-> What do the files contain?
-- "devices.json": contains information about devices that have recently opened this project. This is used to populate the "Development sessions" list in your development builds.
-- "settings.json": contains the server configuration that is used to serve the application manifest.
-> Should I commit the ".expo" folder?
-No, you should not share the ".expo" folder. It does not contain any information that is relevant for other developers working on the project, it is specific to your machine.
-Upon project creation, the ".expo" folder is already added to your ".gitignore" file.
+> App franci_arte e costura
+Franci Arte e Costura, negócio criado por Francineide Morais para 
+confecção de roupas, fantasias, abadás e etc.
+O projeto tem como objetivo tornar mais rápido e prático o atendimento 
+aos clientes, facilitando não só para os clientes como para a loja. Nosso 
+aplicativo automatizaria os pedidos feitos, onde os compradores possam 
+escolher seu modelo de roupa, adicionar suas medidas e qual(is) tipo(s) de 
+tecido deseja usar, além disso os que desejarem fazer ajuste de peça também 
+teriam uma área para isso. Com isso a loja irá possuir todos seus pedidos 
+detalhados e organizados em um só lugar.
+O protótipo possui uma tela inicial com todos os produtos e serviços 
+disponíveis, carrinho para os clientes visualizarem seus itens selecionados, 
+uma área para contato em caso de dúvidas e a área de pagamento
